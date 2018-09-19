@@ -9,11 +9,9 @@ To get a sense of your coding style and ability, without the pressure of coding 
   
   3) The client html file can be found here: `client/index.html` and the script here: `client/scripts/index.js`.
   
-  4) Don't spend much time tweaking CSS. For an assignment of this length we expect the result to be more functional than beautiful.
+  4) The page must work on the latest Chrome (you don't need to worry about older browsers)
   
-  5) The page must work on the latest Chrome (you don't need to worry about older browsers)
-  
-  6) JQuery and Lodash libraries are included for your convenience in `client/scripts/index.js`. Using a visualization or graphing library isn't required for this task, but feel free to use one if you feel like it is necessary. Make sure that new libraries are referenced in the `package.json` and play nice with browserify.
+  5) JQuery and Lodash libraries are included for your convenience in `client/scripts/index.js`. Using a visualization or graphing library isn't required for this task, but feel free to use one if you feel like it is necessary. Make sure that new libraries are referenced in the `package.json` and play nice with browserify.
 
 
 Sample mockup form:
