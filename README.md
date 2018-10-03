@@ -109,7 +109,7 @@ Each bracket looks something like this:
   "code": "DP03_0052E",
   "min": 0,
   "max": 9999,
-  "households": 24702.75
+  "households": 24702
 },
 ```
 
