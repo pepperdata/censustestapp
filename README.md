@@ -13,6 +13,8 @@ To get a sense of your coding style and ability, without the pressure of coding 
   
   5) JQuery and Lodash libraries are included for your convenience in `client/scripts/index.js`. Using a visualization or graphing library isn't required for this task, but feel free to use one if you feel like it is necessary. Make sure that new libraries are referenced in the `package.json` and play nice with browserify.
 
+  7) This can be done in raw Javascript, jQuery, or any JS-based framework that you are most comfortable with (React, Angular, etc).
+
 
 Sample mockup form:
 
